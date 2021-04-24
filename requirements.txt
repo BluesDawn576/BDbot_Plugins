@@ -1,0 +1,3 @@
+requests==2.24.0
+botoy==2.0
+psutil==5.8.0
