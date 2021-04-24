@@ -1,7 +1,7 @@
 # BDbot
 
 ![license](https://img.shields.io/github/license/BluesDawn576/BDbot_Plugins)
-![status](https://img.shields.io/badge/status-24%-red)
+![status](https://img.shields.io/badge/status-24%25-red)
 
 『BDbot』插件仓库
 
